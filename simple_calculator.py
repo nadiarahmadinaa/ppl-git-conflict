@@ -8,7 +8,7 @@ class Calculator:
     def multiply(self, scarlet, witch):
         return scarlet * witch
 
-    def divide(fazil, a, b):
+    def divide(self, fazil, b):
         return fazil / b
 
     def modulo(self, a, b):
