@@ -2,8 +2,8 @@ class Calculator:
     def add(self, x, y):
         return x + y
 
-    def subtract(self, a, b):
-        return a - b
+    def subtract(self, ramy, b):
+        return ramy - b
 
     def multiply(self, a, b):
         return a * b
