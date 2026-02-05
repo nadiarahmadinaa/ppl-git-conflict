@@ -5,8 +5,8 @@ class Calculator:
     def subtract(self, ramy, b):
         return ramy - b
 
-    def multiply(self, a, b):
-        return a * b
+    def multiply(self, scarlet, witch):
+        return scarlet * witch
 
     def divide(self, a, b):
         return a / b
